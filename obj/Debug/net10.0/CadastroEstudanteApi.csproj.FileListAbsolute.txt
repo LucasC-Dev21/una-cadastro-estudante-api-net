@@ -149,3 +149,4 @@ C:\Users\User\Desktop\Sistema distribuidos e Mobile\CadastroEstudanteApi\obj\Deb
 C:\Users\User\Desktop\Sistema distribuidos e Mobile\CadastroEstudanteApi\obj\Debug\net10.0\CadastroEstudanteApi.pdb
 C:\Users\User\Desktop\Sistema distribuidos e Mobile\CadastroEstudanteApi\obj\Debug\net10.0\CadastroEstudanteApi.genruntimeconfig.cache
 C:\Users\User\Desktop\Sistema distribuidos e Mobile\CadastroEstudanteApi\obj\Debug\net10.0\ref\CadastroEstudanteApi.dll
+C:\Users\User\Desktop\Sistema distribuidos e Mobile\CadastroEstudanteApi\obj\Debug\net10.0\CadastroEstudanteApi.sourcelink.json
